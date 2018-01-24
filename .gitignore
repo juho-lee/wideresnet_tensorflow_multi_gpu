@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.npy
+*.npz
+*.ckpt
+*.tar
+*.out
+**/results/
